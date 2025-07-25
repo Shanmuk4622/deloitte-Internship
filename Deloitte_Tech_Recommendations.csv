@@ -1,0 +1,8 @@
+Department,Current_Tool,Pain_Point,Recommended_Tool,Tool_Score
+HR,Excel,No process standardization,Odoo ERP,8.0
+Finance,Legacy System,Low customer engagement,Salesforce,7.5
+IT,No Tool,Inefficient vendor communication,Odoo ERP,8.0
+Marketing,Manual Process,Lack of analytics & reporting,Odoo ERP,8.0
+Operations,No Tool,Low customer engagement,Odoo ERP,8.0
+Logistics,Manual Process,Manual data entry,Odoo ERP,8.0
+Procurement,Legacy System,High cost and licensing issues,Oracle NetSuite,7.75
